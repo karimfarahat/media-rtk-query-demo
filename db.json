@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Kaylie Voldmorg",
+      "id": 2
+    },
+    {
+      "name": "Julie Gerhold",
+      "id": 3
+    },
+    {
+      "name": "Neal Price",
+      "id": 4
+    },
+    {
+      "name": "Kerry Klocko II",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Practical Soft Sausages",
+      "id": 11
+    },
+    {
+      "userId": 3,
+      "title": "Bespoke Plastic Computer",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Frozen Sausages",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Soft Fish",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Concrete Shirt",
+      "id": 15
+    },
+    {
+      "userId": 2,
+      "title": "Practical Fresh Shirt",
+      "id": 16
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 13,
+      "url": "https://picsum.photos/seed/TDIPmMHt/640/480",
+      "id": 5
+    },
+    {
+      "albumId": 13,
+      "url": "https://picsum.photos/seed/K54QFfrPX/640/480",
+      "id": 6
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150?lock=5930668741623808",
+      "id": 10
+    }
+  ]
+}
